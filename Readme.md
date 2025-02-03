@@ -21,10 +21,6 @@ This project simulates a **Blackhole Attack** in an **AODV (Ad hoc On-Demand Dis
 
 ---
 
-## **Project Structure**
-
----
-
 ## **Installation & Compilation**
 
 ### **1. Clone the Repository**
